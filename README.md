@@ -1,2 +1,2 @@
 # CPEN-211
-Computing Systems I
+CPEN 211: Computing Systems I
