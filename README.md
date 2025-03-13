@@ -8,3 +8,7 @@ Lab 3: Digital Lock using Combintional and Finite State Machine using Verilog
 Lab 4: Binary Search using ARM Assembly Language
 
 Lab 5: Datapath of the "Simple RISC Machine" using Verilog
+
+Lab 6: Finite State Machine Controller for the “Simple RISC Machine”
+
+Lab 7: Adding Memory and I/O to the “Simple RISC Machine”
